@@ -6,7 +6,7 @@ public class Test1 {
 		System.out.println("Hello git");
 	}
 	public static void main(String[] args) {
-		
+		display();
 
 	}
 
